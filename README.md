@@ -1,7 +1,7 @@
 # DynamicConv2D-Image-ResAttentionNet
 The pytorch implementation of DynamicConv2D-Image-ResAttentionNet for Deep Learning Assignment II in NCKU.
 
-[[Assignment]](https://docs.google.com/document/d/1JFkZHRSrVBdKeIb_7UDdqPXxtj8qtN4O/edit?usp=sharing&ouid=116539723164805473246&rtpof=true&sd=true) [[Report]](https://drive.google.com/file/d/1xlsdUXurWLtfQUzLi5ErF3g7WTOKmZJD/view?usp=sharing)
+[[Assignment]](https://drive.google.com/file/d/1FPvsmi0XM7ZKvXwllA18ZR_OHrxDfMEb/view?usp=sharing) [[Report]](https://drive.google.com/file/d/1xlsdUXurWLtfQUzLi5ErF3g7WTOKmZJD/view?usp=sharing)
 
 # Files Description
 
