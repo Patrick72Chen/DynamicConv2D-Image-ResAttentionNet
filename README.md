@@ -6,7 +6,9 @@ The pytorch implementation of DynamicConv2D-Image-ResAttentionNet for Deep Learn
 # Files Description
 
 `DL_Assignment2_1.ipynb`: Task1 executable file
+
 `DL_Assignment2_2.ipynb`: Task2 executable file
+
 `DL_visualization.ipynb`: Drawing executable
 
 # Task1 - Designing a Convolution Module for Variable Input Channels
